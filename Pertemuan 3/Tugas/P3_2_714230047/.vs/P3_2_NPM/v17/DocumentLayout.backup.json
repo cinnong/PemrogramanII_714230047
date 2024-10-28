@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 3\\Tugas\\P3_2_NPM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{589C86E1-CFD6-44A0-97AD-74694B419039}|P3_2_NPM\\P3_2_NPM.csproj|d:\\ti\\s3\\pemrograman 2\\pemrogramanii_714230047\\pertemuan 3\\tugas\\p3_2_npm\\p3_2_npm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589C86E1-CFD6-44A0-97AD-74694B419039}|P3_2_NPM\\P3_2_NPM.csproj|solutionrelative:p3_2_npm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 3\\Tugas\\P3_2_NPM\\P3_2_NPM\\Program.cs",
+              "RelativeDocumentMoniker": "P3_2_NPM\\Program.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 3\\Tugas\\P3_2_NPM\\P3_2_NPM\\Program.cs*",
+              "RelativeToolTip": "P3_2_NPM\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:05:46.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

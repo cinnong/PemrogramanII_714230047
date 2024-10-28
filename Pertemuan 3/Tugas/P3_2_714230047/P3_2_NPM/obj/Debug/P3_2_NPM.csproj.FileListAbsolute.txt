@@ -1,0 +1,7 @@
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 3\Tugas\P3_2_NPM\P3_2_NPM\bin\Debug\P3_2_NPM.exe.config
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 3\Tugas\P3_2_NPM\P3_2_NPM\bin\Debug\P3_2_NPM.exe
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 3\Tugas\P3_2_NPM\P3_2_NPM\bin\Debug\P3_2_NPM.pdb
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 3\Tugas\P3_2_NPM\P3_2_NPM\obj\Debug\P3_2_NPM.csproj.AssemblyReference.cache
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 3\Tugas\P3_2_NPM\P3_2_NPM\obj\Debug\P3_2_NPM.csproj.CoreCompileInputs.cache
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 3\Tugas\P3_2_NPM\P3_2_NPM\obj\Debug\P3_2_NPM.exe
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 3\Tugas\P3_2_NPM\P3_2_NPM\obj\Debug\P3_2_NPM.pdb

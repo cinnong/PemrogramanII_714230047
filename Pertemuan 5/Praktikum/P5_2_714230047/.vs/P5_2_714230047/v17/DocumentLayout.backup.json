@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\P5_2_714230047\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A28109-870A-4AFB-8AAA-EEAF46BD8CC1}|P5_2_714230047\\P5_2_714230047.csproj|d:\\ti\\s3\\pemrograman 2\\pemrogramanii_714230047\\p5_2_714230047\\p5_2_714230047\\childform.cs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A28109-870A-4AFB-8AAA-EEAF46BD8CC1}|P5_2_714230047\\P5_2_714230047.csproj|solutionrelative:p5_2_714230047\\childform.cs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A28109-870A-4AFB-8AAA-EEAF46BD8CC1}|P5_2_714230047\\P5_2_714230047.csproj|d:\\ti\\s3\\pemrograman 2\\pemrogramanii_714230047\\p5_2_714230047\\p5_2_714230047\\childform.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A28109-870A-4AFB-8AAA-EEAF46BD8CC1}|P5_2_714230047\\P5_2_714230047.csproj|solutionrelative:p5_2_714230047\\childform.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A28109-870A-4AFB-8AAA-EEAF46BD8CC1}|P5_2_714230047\\P5_2_714230047.csproj|d:\\ti\\s3\\pemrograman 2\\pemrogramanii_714230047\\p5_2_714230047\\p5_2_714230047\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3A28109-870A-4AFB-8AAA-EEAF46BD8CC1}|P5_2_714230047\\P5_2_714230047.csproj|solutionrelative:p5_2_714230047\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A28109-870A-4AFB-8AAA-EEAF46BD8CC1}|P5_2_714230047\\P5_2_714230047.csproj|d:\\ti\\s3\\pemrograman 2\\pemrogramanii_714230047\\p5_2_714230047\\p5_2_714230047\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A28109-870A-4AFB-8AAA-EEAF46BD8CC1}|P5_2_714230047\\P5_2_714230047.csproj|solutionrelative:p5_2_714230047\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A28109-870A-4AFB-8AAA-EEAF46BD8CC1}|P5_2_714230047\\P5_2_714230047.csproj|d:\\ti\\s3\\pemrograman 2\\pemrogramanii_714230047\\p5_2_714230047\\p5_2_714230047\\childform.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3A28109-870A-4AFB-8AAA-EEAF46BD8CC1}|P5_2_714230047\\P5_2_714230047.csproj|solutionrelative:p5_2_714230047\\childform.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A28109-870A-4AFB-8AAA-EEAF46BD8CC1}|P5_2_714230047\\P5_2_714230047.csproj|d:\\ti\\s3\\pemrograman 2\\pemrogramanii_714230047\\p5_2_714230047\\p5_2_714230047\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A28109-870A-4AFB-8AAA-EEAF46BD8CC1}|P5_2_714230047\\P5_2_714230047.csproj|solutionrelative:p5_2_714230047\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChildForm.cs.Designer.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\P5_2_714230047\\P5_2_714230047\\ChildForm.cs.Designer.cs",
+              "RelativeDocumentMoniker": "P5_2_714230047\\ChildForm.cs.Designer.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\P5_2_714230047\\P5_2_714230047\\ChildForm.cs.Designer.cs",
+              "RelativeToolTip": "P5_2_714230047\\ChildForm.cs.Designer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAD4v2gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:56:41.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChildForm.cs.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\P5_2_714230047\\P5_2_714230047\\ChildForm.cs.cs",
+              "RelativeDocumentMoniker": "P5_2_714230047\\ChildForm.cs.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\P5_2_714230047\\P5_2_714230047\\ChildForm.cs.cs",
+              "RelativeToolTip": "P5_2_714230047\\ChildForm.cs.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wCQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:27:43.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\P5_2_714230047\\P5_2_714230047\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230047\\ParentForm.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\P5_2_714230047\\P5_2_714230047\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P5_2_714230047\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:50:25.544Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\P5_2_714230047\\P5_2_714230047\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230047\\ParentForm.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\P5_2_714230047\\P5_2_714230047\\ParentForm.cs",
+              "RelativeToolTip": "P5_2_714230047\\ParentForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIA9wCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:03:22.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChildForm.cs.cs [Design]",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\P5_2_714230047\\P5_2_714230047\\ChildForm.cs.cs",
+              "RelativeDocumentMoniker": "P5_2_714230047\\ChildForm.cs.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\P5_2_714230047\\P5_2_714230047\\ChildForm.cs.cs [Design]",
+              "RelativeToolTip": "P5_2_714230047\\ChildForm.cs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:10:30.717Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParentForm.Designer.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\P5_2_714230047\\P5_2_714230047\\ParentForm.Designer.cs",
+              "RelativeDocumentMoniker": "P5_2_714230047\\ParentForm.Designer.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\P5_2_714230047\\P5_2_714230047\\ParentForm.Designer.cs",
+              "RelativeToolTip": "P5_2_714230047\\ParentForm.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:08:38.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P4_2_714230047\P4_2_714230047\bin\Debug\P4_2_714230047.exe.config
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P4_2_714230047\P4_2_714230047\bin\Debug\P4_2_714230047.exe
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P4_2_714230047\P4_2_714230047\bin\Debug\P4_2_714230047.pdb
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P4_2_714230047\P4_2_714230047\obj\Debug\P4_2_714230047.csproj.AssemblyReference.cache
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P4_2_714230047\P4_2_714230047\obj\Debug\P4_2_714230047.csproj.CoreCompileInputs.cache
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P4_2_714230047\P4_2_714230047\obj\Debug\P4_2_714230047.exe
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P4_2_714230047\P4_2_714230047\obj\Debug\P4_2_714230047.pdb

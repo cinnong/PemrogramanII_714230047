@@ -1,0 +1,9 @@
+Bagian I
+Langkah 13: Mengapa pesan kesalahan muncul saat build? Kesalahan muncul karena properti atau metode yang diperlukan tidak dideklarasikan dengan benar dalam kelas Product_NPM
+Langkah 19: Mengapa hasil yang muncul di layar bisa seperti itu? Hasil yang muncul sesuai dengan kode yang Anda berikan di ProductTest_NPM. Jika sudah diperbaiki, output-nya akan menampilkan "Book" sebagai jenis produk.
+Langkah 24: Jelaskan mengapa kata tersebut muncul di layar? Kata atau teks yang ditampilkan di layar adalah hasil dari pengaturan properti myType pada kelas Product_NPM, yang kemudian dipanggil melalui ProductTest_NPM. Output ini mencerminkan nilai yang di-set pada properti myType dalam ProductTest_NPM.
+
+Bagian II
+Langkah 8: Mengapa tipe dan judul buku tidak muncul? Apakah istilah OOP yang mendefinisikan ini? Tipe dan judul buku tidak muncul karena Product_NPM adalah kelas abstrak yang tidak mengimplementasikan secara lengkap detail dari setiap subclass-nya (seperti Book_NPM).
+Langkah 12: Mengapa tipe dan judul buku tampil pada output saat ini? Setelah memperbaiki Book_NPM.cs, tipe dan judul buku muncul karena properti diimplementasikan secara penuh di dalam kelas Book_NPM. Properti dari kelas abstrak sekarang dapat diakses dan ditampilkan.
+Langkah 19: Mengapa objek product2 tidak dibuat seperti product1? Perbedaan ini terjadi karena product2 mungkin adalah instance dari kelas yang berbeda (DVD_NPM misalnya), dan pendekatan yang berbeda digunakan untuk instansiasi kelas ini, terutama jika DVD_NPM menggunakan konstruktor atau properti yang berbeda.

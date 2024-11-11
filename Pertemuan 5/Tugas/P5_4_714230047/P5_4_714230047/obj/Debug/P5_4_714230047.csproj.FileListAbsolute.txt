@@ -1,0 +1,10 @@
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P5_4_714230047\P5_4_714230047\bin\Debug\P5_4_714230047.exe.config
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P5_4_714230047\P5_4_714230047\bin\Debug\P5_4_714230047.exe
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P5_4_714230047\P5_4_714230047\bin\Debug\P5_4_714230047.pdb
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P5_4_714230047\P5_4_714230047\obj\Debug\P5_4_714230047.csproj.AssemblyReference.cache
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P5_4_714230047\P5_4_714230047\obj\Debug\P5_4_714230047.Form1.resources
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P5_4_714230047\P5_4_714230047\obj\Debug\P5_4_714230047.Properties.Resources.resources
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P5_4_714230047\P5_4_714230047\obj\Debug\P5_4_714230047.csproj.GenerateResource.cache
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P5_4_714230047\P5_4_714230047\obj\Debug\P5_4_714230047.csproj.CoreCompileInputs.cache
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P5_4_714230047\P5_4_714230047\obj\Debug\P5_4_714230047.exe
+D:\TI\S3\Pemrograman 2\PemrogramanII_714230047\Pertemuan 5\Tugas\P5_4_714230047\P5_4_714230047\obj\Debug\P5_4_714230047.pdb

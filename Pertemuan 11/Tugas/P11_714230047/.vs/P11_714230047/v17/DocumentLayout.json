@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|d:\\ti\\s3\\pemrograman 2\\pemrogramanii_714230047\\pertemuan 11\\tugas\\p10_714230047\\p9_714230047\\view\\formtransaksibarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\view\\formtransaksibarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\view\\formtransaksibarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\view\\formtransaksibarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\controller\\transaksibarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\controller\\transaksibarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\model\\m_transaksi_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\model\\m_transaksi_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\controller\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\controller\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\model\\m_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\model\\m_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\p9_714230047\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF46030-665D-4EE4-8085-1A7F55414058}|P9_714230047\\P9_714230047.csproj|solutionrelative:p9_714230047\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransaksiBarang.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\controller\\TransaksiBarang.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\controller\\TransaksiBarang.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\controller\\TransaksiBarang.cs",
+              "RelativeToolTip": "P9_714230047\\controller\\TransaksiBarang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:46:18.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\controller\\Koneksi.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\controller\\Koneksi.cs",
+              "RelativeToolTip": "P9_714230047\\controller\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:54:42.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormBarang.cs [Design]",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\FormBarang.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\view\\FormBarang.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\FormBarang.cs [Design]",
+              "RelativeToolTip": "P9_714230047\\view\\FormBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:55:00.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTransaksiBarang.cs [Design]",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\FormTransaksiBarang.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\view\\FormTransaksiBarang.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\FormTransaksiBarang.cs [Design]",
+              "RelativeToolTip": "P9_714230047\\view\\FormTransaksiBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:02:22.663Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormTransaksiBarang.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\FormTransaksiBarang.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\view\\FormTransaksiBarang.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\FormTransaksiBarang.cs",
+              "RelativeToolTip": "P9_714230047\\view\\FormTransaksiBarang.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAASwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:40:20.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\view\\ParentForm.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\ParentForm.cs",
+              "RelativeToolTip": "P9_714230047\\view\\ParentForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAArwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:11:26.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\view\\ParentForm.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P9_714230047\\view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:09:18.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "M_transaksi_barang.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\model\\M_transaksi_barang.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\model\\M_transaksi_barang.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\model\\M_transaksi_barang.cs",
+              "RelativeToolTip": "P9_714230047\\model\\M_transaksi_barang.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:48:00.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBarang.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\FormBarang.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\view\\FormBarang.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\FormBarang.cs",
+              "RelativeToolTip": "P9_714230047\\view\\FormBarang.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAewC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:57:51.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\view\\FormNilai.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\FormNilai.cs [Design]",
+              "RelativeToolTip": "P9_714230047\\view\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:20:41.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\controller\\Barang.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\controller\\Barang.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\controller\\Barang.cs",
+              "RelativeToolTip": "P9_714230047\\controller\\Barang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:46:42.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "M_barang.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\model\\M_barang.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\model\\M_barang.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\model\\M_barang.cs",
+              "RelativeToolTip": "P9_714230047\\model\\M_barang.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:47:32.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\view\\Form1.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "P9_714230047\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:22:52.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Nilai.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\controller\\Nilai.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\controller\\Nilai.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\controller\\Nilai.cs",
+              "RelativeToolTip": "P9_714230047\\controller\\Nilai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:32:21.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\view\\FormNilai.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\FormNilai.cs",
+              "RelativeToolTip": "P9_714230047\\view\\FormNilai.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwKIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:57:54.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "M_nilai.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\model\\M_nilai.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\model\\M_nilai.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\model\\M_nilai.cs",
+              "RelativeToolTip": "P9_714230047\\model\\M_nilai.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:31:29.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\Program.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\Program.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\Program.cs",
+              "RelativeToolTip": "P9_714230047\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:13:40.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\view\\Form1.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\view\\Form1.cs",
+              "RelativeToolTip": "P9_714230047\\view\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:56:56.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714230047\\controller\\Mahasiswa.cs",
+              "ToolTip": "D:\\TI\\S3\\Pemrograman 2\\PemrogramanII_714230047\\Pertemuan 11\\Tugas\\P10_714230047\\P9_714230047\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "P9_714230047\\controller\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:01:11.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
